@@ -1,3 +1,5 @@
+package src;
+
 public class Card extends Ticket {
     private double balance;
 

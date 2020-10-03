@@ -1,4 +1,4 @@
-package vn.techmaster.toller;
+package toller;
 
 public abstract class Ticket {
     private Gate origin = null;

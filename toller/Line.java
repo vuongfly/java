@@ -1,4 +1,4 @@
-package vn.techmaster.toller;
+package toller;
 
 public final class Line {
     public static final Gate A = new Gate("A",0);

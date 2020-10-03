@@ -1,3 +1,5 @@
+package src;
+
 public class Gate {
     private String name;
     private String id;

@@ -1,4 +1,4 @@
-package vn.techmaster.toller;
+package toller;
 
 public class Gate {
     // Unique name
