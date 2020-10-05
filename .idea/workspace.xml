@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f8d0289-f4ab-4672-ae3c-67b538b33737" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Answer/SortDI/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependenceInjection/JobSaver/JobSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependenceInjection/JobSaver/JobSaverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependenceInjection/JobSaver/Storageable/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependenceInjection/JobSaver/Storageable/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependenceInjection/JobSaver/Storageable/Storageable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependenceInjection/WeaponDI/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependenceInjection/WeaponDI/Interface/Attackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependenceInjection/WeaponDI/Weapon/Gun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependenceInjection/WeaponDI/Weapon/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependenceInjection/WeaponDI/Weapon/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependenceInjection/WeaponDI/WeaponMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/DemoException/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/SortDI/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/Answer/SortDI/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/SortDI/SortDI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/SortDI/Sortable/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/SortDI/Sortable/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Answer/SortDI/Sortable/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/Stack/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/Stack/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/Stack/Storage/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/Stack/Storage/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/Stack/Storage/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/Stack/Storage/Storage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/bank/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/bank/CurrentAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/bank/CurrentPlusAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/bank/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/toller/Gate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/toller/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/toller/OneWayTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/toller/PrepaidCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer/toller/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/FirstProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/Demo/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/Demo/Enum/Checking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/Demo/Enum/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/Demo/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/Demo/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/Demo/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/Demo/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/Demo/SubjectTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/Demo/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/DemoAnimal/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/DemoAnimal/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/DemoAnimal/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/DemoAnimal/Speakable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/DemoEmployee/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/DemoEmployee/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/DemoEmployee/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/DemoEmployee/Workable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/DemoEmployee/canSalary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/Tutorial/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/Tutorial/Season.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/GenericMethodTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/HumanResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/Protector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/Receptionist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/TechnicalStaff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortProject/SortProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortProject/src/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortProject/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortProject/src/Sortable/BinarySort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortProject/src/Sortable/ISort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortProject/src/Sortable/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortProject/src/Sortable/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/Stack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/src/Storage/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/src/Storage/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/src/Storage/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/src/Storage/Storage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TollerSystem/TollerSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TollerSystem/src/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TollerSystem/src/DistanceCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TollerSystem/src/Gate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TollerSystem/src/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TollerSystem/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TollerSystem/src/OneWayTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TollerSystem/src/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/Demo/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/Demo/Enum/Checking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/Demo/Enum/Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/Demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/Demo/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/Demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/Demo/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/Demo/SubjectTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/Demo/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/DemoAnimal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/DemoAnimal/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/DemoAnimal/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/DemoAnimal/Speakable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/DemoEmployee/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/DemoEmployee/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/DemoEmployee/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/DemoEmployee/Workable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/DemoEmployee/canSalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/Tutorial/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/Tutorial/Season.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Generic/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Generic/GenericMethodTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Generic/HumanResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Generic/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Generic/Protector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Generic/Receptionist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Generic/TechnicalStaff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/.idea/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/Answer/DemoException/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/Answer/bank/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/Answer/bank/CurrentAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/Answer/bank/CurrentPlusAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/Answer/bank/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/FirstProject/FirstProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/FirstProject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/Git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/SortProject/SortProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/Sortable/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/Sortable/Sortable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/Stack/Stack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/Storage/Storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/TollerSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/TollerSystem/TollerSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/java.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/.idea/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/FirstProject/FirstProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/FirstProject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/Git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/SortProject/SortProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/Stack/Stack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/TollerSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/TollerSystem/TollerSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/java.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/.idea/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/FirstProject/FirstProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/FirstProject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/SortProject/SortProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/Stack/Stack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/TollerSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/TollerSystem/TollerSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/java.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/FirstProject/FirstProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/FirstProject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/SortProject/SortProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/java.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/FirstProject/FirstProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/FirstProject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/Git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/SortProject/SortProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/out/production/Git/out/production/Git/out/production/Git/out/production/Git/java.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortProject/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortProject/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortProject/Sortable/BinarySort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortProject/Sortable/ISort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortProject/Sortable/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortProject/Sortable/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stack/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stack/Storage/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stack/Storage/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stack/Storage/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stack/Storage/Storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toller/Gate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toller/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toller/OneWayTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toller/PrepaidCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toller/Ticket.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iSimtcZrZmUt7xNofbs9f6gHhe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Answer/SortDI" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DATA\Git\java\DependenceInjection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JobSaverTest">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobSaverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JobSaverTest" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeaponMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeaponMain" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JobSaverTest" />
+        <item itemvalue="Application.WeaponMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f8d0289-f4ab-4672-ae3c-67b538b33737" name="Default Changelist" comment="" />
+      <created>1601907557537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601907557537</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1601908575716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601908575716" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1601909770033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601909770033" />
+    <state x="743" y="385" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601907999092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="385" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1601907999092" />
+    <state x="628" y="185" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601908289593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="628" y="185" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601908289593" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1601909253085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601909253085" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1601909253085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601909253085" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1601909253085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601909253085" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1601909253085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601909253085" />
+    <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1601907987578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601907987578" />
+  </component>
+</project>

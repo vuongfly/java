@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirstProject/FirstProject.iml" filepath="$PROJECT_DIR$/FirstProject/FirstProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Git.iml" filepath="$PROJECT_DIR$/Git.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SortProject/SortProject.iml" filepath="$PROJECT_DIR$/SortProject/SortProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TollerSystem/TollerSystem.iml" filepath="$PROJECT_DIR$/TollerSystem/TollerSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
     </modules>
   </component>

@@ -1,29 +1,19 @@
 import Sortable.Sortable;
 
 public class Company {
-    String[] employeeIds;
     Sortable sort;
+    String[] employeeIds;
 
-    public Company(Sortable sort) {
-        this.employeeIds = new String[]{"hello", "world"};
+    public Company(Sortable sort){
         this.sort = sort;
+        this.employeeIds = new String[]{"hello", "world"};
     }
 
     public void setSort(Sortable sort) {
         this.sort = sort;
     }
 
-    public void demoMethod(Sortable sort, boolean isValid) {
-        if (isValid) {
-
-        }
-        else {
-
-        }
-        this.sort = sort;
-    }
-
-    public void sort() {
+    public void sort(){
         sort.sort(employeeIds);
     }
 }
