@@ -35,4 +35,22 @@ public class Card {
                 ", cardNumber='" + cardNumber + '\'' +
                 '}';
     }
+
+    public boolean depositFund(double amount) {
+        this.balance += amount;
+        return true;
+    }
+
+    public boolean withdrawFund(double amount) {
+        if (balance < amount) {
+            System.out.println("cannot withdraw amount bigger than balance");
+        } else {
+            this.balance -= amount;
+        }
+        return true;
+    }
+
+    public boolean transferFund(Card cardReceive, double amount) {
+        return true;
+    }
 }
