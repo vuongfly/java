@@ -12,6 +12,10 @@ public class Card {
         return balance;
     }
 
+    private void setBalance(double balance) {
+        this.balance = balance;
+    }
+
     public Card getCard() {
         return card;
     }
@@ -36,12 +40,12 @@ public class Card {
                 '}';
     }
 
-    public boolean depositFund(double amount) {
+    public boolean addBalance(double amount) {
         this.balance += amount;
         return true;
     }
 
-    public boolean withdrawFund(double amount) {
+    public boolean subBalance(double amount) {
         if (balance < amount) {
             System.out.println("cannot withdraw amount bigger than balance");
         } else {
@@ -50,7 +54,6 @@ public class Card {
         return true;
     }
 
-    public boolean transferFund(Card cardReceive, double amount) {
-        return true;
-    }
+
+
 }

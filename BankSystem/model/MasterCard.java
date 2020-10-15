@@ -1,7 +1,7 @@
 package model;
 
 public class MasterCard extends Card {
-    public double interestRate = 0.03;
+    double interestRate = 0.03;
 
     public double getInterestRate() {
         return interestRate;
@@ -15,7 +15,5 @@ public class MasterCard extends Card {
         super();
     }
 
-    public void monthlyInterest() {
-        this.balance += this.balance * this.interestRate;
-    }
+
 }
