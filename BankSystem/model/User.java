@@ -2,17 +2,14 @@ package model;
 
 public class User {
     String name;
-    String username;
-    String password;
+    Account account;
     Card card;
 
     public User() {
     }
 
-    public User(String name, String username, String password) {
+    public User(String name) {
         this.name = name;
-        this.username = username;
-        this.password = password;
     }
 
     public String getName() {
@@ -23,21 +20,6 @@ public class User {
         this.name = name;
     }
 
-    public String getUsername() {
-        return username;
-    }
-
-    public void setUsername(String username) {
-        this.username = username;
-    }
-
-    public String getPassword() {
-        return password;
-    }
-
-    public void setPassword(String password) {
-        this.password = password;
-    }
 
     public Card getCard() {
         return card;
@@ -47,13 +29,5 @@ public class User {
         this.card = card;
     }
 
-    @Override
-    public String toString() {
-        return "User{" +
-                "name='" + name + '\'' +
-                ", username='" + username + '\'' +
-                ", password='" + password + '\'' +
-                ", card=" + card +
-                '}';
-    }
+
 }

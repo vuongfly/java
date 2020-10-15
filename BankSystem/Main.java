@@ -4,7 +4,7 @@ import model.Visa;
 
 public class Main {
     public static void main(String[] args) {
-        User user = new User("Vuong Fly", "Vfly", "1234");
+        User user = new User("Vuong Fly");
         Card visa = new Visa();
         visa.setCardNumber("5554");
         user.setCard(visa);
