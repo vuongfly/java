@@ -52,7 +52,7 @@ public class Hotel {
     public User register(model.User user) {
         // check email
 
-        // create new user
+        // create new User
         userRepository.insert(user);
         return user;
     }
